@@ -1,6 +1,6 @@
 ## React-Native WebView
 
-# Commands:
+Commands:
 
 Dev:
 1. yarn
